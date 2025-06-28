@@ -1,0 +1,21 @@
+* {
+    font-family: Helvetica, sans-serif;
+    }
+img{
+    width:400px
+}
+body{
+    margin:50px;
+}
+div,.heading{
+    border: 1px solid maroon;
+    padding: 20px 40px;
+}
+.main .main-page{
+    display:inline-block;
+    margin:20px 20px;
+
+}
+.main .heading{
+    text-align: center;
+}
