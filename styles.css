@@ -13,8 +13,12 @@ div,.heading{
 }
 .main .main-page{
     display:inline-block;
-    margin:20px 20px;
-
+    margin: 0 auto;
+    height: auto;
+    width: 500px;
+    border: 0.5px solid maroon;
+    text-align: center;
+    box-sizing: border-box;
 }
 .main .heading{
     text-align: center;
